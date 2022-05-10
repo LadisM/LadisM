@@ -5,7 +5,8 @@
 <br>✉️  You can contact me at <a href="mailto:ladislav@maruska.me">ladislav@maruska.me</a> 
 <br>🧠  I'm learning TypeScript 
 <br>👨🏽‍💻 In free time I coding car units VW, ŠKODA, SEAT, AUDI
-<br>🖥 My <a href="https://www.maruska.me">website</a></p>
+<br>🖥 My <a href="https://www.maruska.me">website</a>
+<br>💻 My <a href="https://www.salon-nicol.cz">last website</a></p>
 
 <h2>Skills</h2>
 
