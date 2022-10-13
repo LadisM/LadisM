@@ -2,11 +2,11 @@
 <br>Frontend Web Developer
 <br>I ve been learning to code for 3years in hard covid time. I using HTML5, CSS, JavaScript with jQuery, Angular JS, React JS  
 <br>🌍  I'm based in Czech Republic 
-<br>✉️  You can contact me at <a href="mailto:ladislav@maruska.me">ladislav@maruska.me</a> 
+<br>✉️  You can contact me at <a href="mailto:contact@ladislavmaruska.com">mail</a> 
 <br>🧠  I'm learning TypeScript 
 <br>👨🏽‍💻 In free time I coding car units VW, ŠKODA, SEAT, AUDI
-<br>🖥 My <a href="https://www.maruska.me">website</a>
-<br>💻 My <a href="https://www.salon-nicol.cz">last website</a></p>
+<br>🖥 My <a href="https://ladislavmaruska.com">website</a>
+<br>💻 My <a href="https://www.jan-subrt.cz/">last website</a></p>
 
 <h2>Skills</h2>
 
