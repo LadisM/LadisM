@@ -1,6 +1,6 @@
 <p>Hi 👋 My name is Ladis M. 
-<br>Frontend Web Developer
-<br>I ve been learning to code for 3years in hard covid time. I using HTML5, CSS, JavaScript with jQuery, Angular JS, React JS  
+<br>Frontend Web & RPA Developer
+<br>I ve been learning to code for 4years in hard covid time. I using HTML5, CSS, JavaScript with jQuery, Angular JS, React JS etc.. 
 <br>🌍  I'm based in Czech Republic 
 <br>✉️  You can contact me at <a href="mailto:contact@ladislavmaruska.com">mail</a> 
 <br>🧠  I'm learning TypeScript 
