@@ -1,12 +1,12 @@
 <p>Hi 👋 My name is Ladis M. 
-<br>Frontend Web & RPA Developer
-<br>I ve been learning to code for 4years in hard covid time. I using HTML5, CSS, JavaScript with jQuery, Angular JS, React JS etc.. 
-<br>🌍  I'm based in Czech Republic 
+<br>Frontend Web & PowerPlatform & Automation Developer
+<br>I ve been learning to code in "hard" covid time. I using HTML5, CSS, JS,TypeScript etc.  
+<br>👨🏽‍💻  Currently I specialize in the PowerPlatform M365 (PowerApps, PowerAutomate, PowerBI, Dataverse) and RPA (UiPath)  
 <br>✉️  You can contact me at <a href="mailto:contact@ladislavmaruska.com">mail</a> 
-<br>🧠  I'm learning TypeScript 
-<br>👨🏽‍💻 In free time I coding car units VW, ŠKODA, SEAT, AUDI
-<br>🖥 My <a href="https://ladislavmaruska.com">website</a>
-<br>💻 My <a href="https://www.jan-subrt.cz/">last website</a></p>
+<br>🌍  I'm based in Czech Republic 
+<br>👨🏽‍💻  In free time I coding car units VW, ŠKODA, SEAT, AUDI
+<br>🖥  My <a href="https://ladislavmaruska.com">website</a>
+<br>💻  My <a href="https://www.jan-subrt.cz/">last website</a></p>
 
 <h2>Skills</h2>
 
